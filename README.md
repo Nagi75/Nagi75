@@ -35,9 +35,3 @@
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/Nagi75/Nagi75/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: yourname.dev@gmail.com
