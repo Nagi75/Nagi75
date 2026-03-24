@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagi</h1>
-<h3 align="center">Full Stack Developer | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Problem Solver | Building Real Projects</h3>
 
 <p align="center">
   <i>"Discipline builds what motivation starts."</i>
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 💻 Building real-world full-stack projects  
 🤝 Open to collaboration on tech ideas  
-🌱 Currently learning Backend & DSA  
+🌱 Currently learning Backend & Data Structures  
 💬 Ask me about Web Dev, Go, and Problem Solving  
 
 ---
@@ -34,6 +34,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Nagi75/Nagi75/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Connect With Me
-- LinkedIn: (add your link)
+- LinkedIn: https://linkedin.com/in/your-link  
 - Email: yourname.dev@gmail.com
